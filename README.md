@@ -13,7 +13,3 @@
   
 </picture>
 
-
-<img align= "left"
-src="https://avatars.akamai.steamstatic.com/ecf731d86e27daab24bf3305f35552eaa8d2d28e_full.jpg"
-/>
